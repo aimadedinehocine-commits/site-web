@@ -75,6 +75,14 @@ nav a:hover {
     padding: 20px;
     overflow-x:hidden; 
 }
+.accueil {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50°%,-50%);
+    text-align: center;
+    color: black;
+}
 
 
 .accueil h2 {
