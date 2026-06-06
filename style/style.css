@@ -78,9 +78,6 @@ nav a:hover {
 
 .accueil {
     height: 80vh;
-    background: linear-gradient(oklch(0% 0 0 / 0.6), rgba(0,0,0,0.6)),
-                url('../images/oip.png');
-    width: 120px;
     background-size: cover;
     background-position: center;
     display: flex;
