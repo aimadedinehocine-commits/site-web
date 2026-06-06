@@ -76,16 +76,6 @@ nav a:hover {
     overflow-x:hidden; 
 }
 
-.accueil {
-    height: 80vh;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: white;
-}
 
 .accueil h2 {
     font-size: 40px;
