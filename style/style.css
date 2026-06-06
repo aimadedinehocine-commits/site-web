@@ -75,8 +75,12 @@ nav a:hover {
     padding: 20px;
     overflow-x:hidden; 
 }
-
-
+.accueil {
+background-color: white;
+text-align: center;
+padding: 35px 20px 45px;
+background: transparent;
+}
 .accueil h2 {
     font-size: 40px;
 }
